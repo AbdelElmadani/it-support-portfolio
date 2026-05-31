@@ -5,7 +5,7 @@ documentation skills, and basic scripting/automation.
 
 ## Projects
 
-### 1. [Windows Troubleshooting Guide](./windows-troubleshooting-guide)
+### 1. [Windows Troubleshooting Guide](troubleshooting-guide.md)
 A knowledge-base–style reference covering common end-user issues: DNS,
 printers, VPN, and slow performance. Written in the format used for internal
 support documentation, with symptoms, diagnostic steps, and resolutions.
