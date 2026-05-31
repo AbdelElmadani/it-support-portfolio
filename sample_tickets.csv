@@ -1,0 +1,11 @@
+id,subject,description
+1001,Cannot connect to VPN,User gets a timeout error when connecting to the company VPN from home.
+1002,Printer not working,The printer on the 3rd floor shows offline and jobs are stuck in the queue.
+1003,Password reset,User forgot their password and is locked out of their account.
+1004,Email down for whole team,No one in the sales department can send or receive email since this morning.
+1005,Slow laptop,My computer takes 10 minutes to boot and apps freeze constantly.
+1006,New monitor request,Requesting a second monitor for my desk setup.
+1007,Website not loading DNS error,Getting a DNS error in the browser but other apps work fine.
+1008,Server is down,The main file server is completely unreachable and no one can access shared drives.
+1009,Software install,Please install Adobe Acrobat on my workstation.
+1010,Account locked,I typed my password wrong too many times and now I'm locked out.
